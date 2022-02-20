@@ -1,0 +1,2 @@
+# lshGit
+lsh git test
